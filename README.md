@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lokesh Shetty</h1>
+<h1 align="center">Hi 👋, I'm Lokesh M </h1>
 
 <h3 align="center">
 Aspiring AI & Machine Learning Engineer | Full Stack MERN Developer | AI & Generative AI Enthusiast
